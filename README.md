@@ -42,8 +42,9 @@
 <h1 align="center">Where to find me <img height="33" src="https://emojis.slackmojis.com/emojis/images/1619053233/32375/knuddels_spy.gif?1619053233"></h1>
 
 <div align="center">
+    <a href="https://api.whatsapp.com/send/?phone=5511989247421&text=Olá%2C+vi+o+seu+GitHub+e+queria+conversar+com+você%21&type=phone_number&app_absent=0" target="_blank"><img alt="Logo WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/cauefidelis" target="_blank"><img alt="Logo Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://t.me/CaueFS" target="_blank"><img alt="Telegram Logo" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="https://t.me/cauefidelis" target="_blank"><img alt="Telegram Logo" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <a href="mailto:cauefidelis@live.com" target="_blank"><img alt="Gmail Logo" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <!-- /Contacts -->
